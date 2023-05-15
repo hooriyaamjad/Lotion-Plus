@@ -1,4 +1,4 @@
-# Lotion Plus
+# Lotion Plus: Notes App
 
 In this assignment, you will create a backend on AWS for the Lotion app you created in a previous assignment. You will use Terraform for creating resources on AWS.
 
